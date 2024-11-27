@@ -15,23 +15,12 @@ I'm a passionate developer based in **Shanghai**, specializing in **Java**, **Py
 ## 📫 Get in Touch
 
 - 📧 **Email**: [287218070@qq.com](mailto:287218070@qq.com)
+- 🌐 **Blog**: [我的掘金博客](https://juejin.cn/user/2221478400507272)
 - 📍 **Location**: Shanghai, China
-
-## 🚀 Current Projects
-
-- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of your project, the technologies used, and what it accomplishes.
-- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of your project, the technologies used, and what it accomplishes.
 
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title](https://yourblog.com/post-url) - _Date_
-- [Blog Post Title](https://yourblog.com/post-url) - _Date_
-<!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun Fact
 
